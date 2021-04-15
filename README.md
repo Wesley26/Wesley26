@@ -4,4 +4,4 @@
     🔷 https://wesleywebdev.com/
     🔷 https://www.linkedin.com/in/wesleydzitzer/
 
-    💥 Favorite Programming Language: JavaScript
+    💥 Favorite Programming Language: JavaScript/TypeScript
