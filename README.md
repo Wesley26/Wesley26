@@ -14,7 +14,5 @@
 [Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-    <a href="https://wesleywebdev.com/">
-    <p fontWeight="bold">wesleywebdev.com</p>
-    </a>
+    <"https://wesleywebdev.com/">
 </p>
